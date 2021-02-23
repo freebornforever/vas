@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scene edgeIDcounter="0" nodeIDcounter="3" version="1">
+    <Node id="Floor Plan" x="0" y="0"/>
+    <Node id="2-A-DI-2" x="766" y="193"/>
+    <Node id="1-A-DI-1" x="427" y="154"/>
+    <Node id="3-A-DI-3" x="993" y="303"/>
+</Scene>
